@@ -27,9 +27,6 @@ I am currently looking for **small freelance projects** or **entry-level opportu
 Here are some of the projects I have collaborated on during my studies at the University of Botswana:
 
 *   **[UB Accommodation Appeals System](https://github.com/Tetlanyo-dev/ub-accommodation-appeals-system)** - A system designed to streamline the process of managing university accommodation appeals. 
-*   **[WriteTrace](https://github.com/ndebele-bw/writetrace)** - A collaborative software project focused on writing and tracking. 
-*   **[Setswana Word Extractor](https://github.com/kaelowadingalo1-sys/setswanaWordExtracter)** - An NLP-based tool designed to extract and process Setswana words from text.
-*   **[N-gram](https://github.com/kaelowadingalo1-sys/n-gram)** - A project implementing N-gram models for text analysis.
 *   **[UB Admissions System](https://github.com/kay13369/UB-ADMISSIONS-SYSTEM)** - A collaborative project aimed at improving the university admissions process.
 
 ---
